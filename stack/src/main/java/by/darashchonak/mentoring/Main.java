@@ -3,7 +3,7 @@ package by.darashchonak.mentoring;
 /**
  * Created by misha on 6/28/17.
  */
-public class StackOverflow {
+public class Main {
     public static void main(String[] args) {
 
         Object object1 = null;
